@@ -1,6 +1,6 @@
-simple Python addition program
+Simple Python addition program
 
-num1 = 5
+num1 = 9
 num2 = 7
 
 result = num1 + num2

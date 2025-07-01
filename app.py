@@ -1,7 +1,7 @@
 Simple Python addition program
 
 num1 = 9
-num2 = 8
+num2 = 10
 
 result = num1 + num2
 

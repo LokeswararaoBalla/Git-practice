@@ -5,4 +5,4 @@ num2 = 10
 
 result = num1 + num2
 
-print("The sum is:", result)
+print("The sum is result of num1 $ num2", result)
